@@ -1,0 +1,43 @@
+div{
+    margin-left:7%;
+    margin-top:2%;
+    margin-right:7%;
+   
+}
+.pia{
+    margin-left:45%;
+}
+.corpo{
+    background-color:rgb(231,231,231);
+    margin-left:-1%;
+    margin-right:-1%;
+    margin-top:1%;
+}
+.blue{
+    margin-top:2%;
+
+}
+p{
+    font-size:xx-large;
+    margin-top:2%;
+    margin-left:2%;
+}
+.quadradinho{
+    width:8px;
+    height:35px;
+    background-color: #0015ffb1;
+    margin-top:0.5%;
+    position:fixed;
+    margin-left:0%;
+}
+button{
+    background-color:white;
+    width:350px;
+    height:50px;
+    border-radius:5px;
+    font-size:large;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
