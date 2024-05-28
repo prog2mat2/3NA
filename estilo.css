@@ -1,52 +1,58 @@
+div{
+    margin-left:7%;
+    margin-top:2%;
+    margin-right:7%;
+    background-image: url(programação.jpeg);
+    border-radius:10px;
+}
+.top{
+    margin-left:7%;
+    margin-top:2%;
+    margin-right:7%;
+    background-image: url(programação.jpeg);
+    border-radius:10px;
+    height:210px;
+}
 p{
     font-size:xx-large;
     margin-top:2%;
     margin-left:2%;
-    text-align: center;
-}
-div{
-    background-image:url(roboticaeducacional.jpeg);
-    height:90px;
-    border-radius:10px 10px 0px 0px;
 }
 button{
     background-color:white;
-    width:420px;
+    width:350px;
     height:50px;
     border-radius:5px;
-    font-size:x-large;
-    margin-right:22px;
-    margin-bottom:15px;
+    font-size:large;
 }
-button:hover{
-    background-color: darkgray;
-    border: solid;
-}
-a{
-    text-decoration:none;
-    color:black;
-    font-size:x-large;
-}
-footer{
-    font-size:small;
-    font-family: 'Courier New', Courier, monospace;
+h1{
     text-align: center;
-}
-.Guilherme{
-    background-image:url(logoguilherme.jpg);
-}
-.Melina{
-    background-image:url(Joven\ Católico.png);
-}
-.Rebeca{
-    background-image:url(logorebeca.jpg);
-}
-.mascote{
-    background-image: none;
-    background-color: azure;
-    text-align:center;
-    height:390px;
+    color: white;
 }
 img{
-    width:350px;
+    margin-left:25%;
+}
+button{
+    margin-left:7px;
+    margin-bottom:7px;;
+}
+.P{
+    background-image: url(prog.jpg);
+    background-size:400px;
+    width:400px;
+    height:127px;
+    margin-left:8%;
+    margin-top:12%;
+    margin-right:10%;
+    border-radius:15px;
+    font-size:xx-large;
+    color:white;
+}
+.R{
+    width:400px;
+    height:127px;
+    background-image:url(roboticaeducacional.jpeg);
+    margin-left:8%;
+    margin-top:12%;
+    border-radius:15px;
 }
