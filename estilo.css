@@ -36,3 +36,23 @@ button{
     margin-left:7px;
     margin-bottom:7px;;
 }
+.P{
+    background-image: url(prog.jpg);
+    background-size:400px;
+    width:400px;
+    height:127px;
+    margin-left:8%;
+    margin-top:4%;
+    margin-right:10%;
+    border-radius:15px;
+    font-size:xx-large;
+    color:white;
+}
+.R{
+    width:400px;
+    height:127px;
+    background-image:url(roboticaeducacional.jpeg);
+    margin-left:8%;
+    margin-top:4%;
+    border-radius:15px;
+}
