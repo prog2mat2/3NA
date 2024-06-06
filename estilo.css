@@ -9,9 +9,12 @@ div{
     margin-left:7%;
     margin-top:2%;
     margin-right:7%;
-    background-image: url(programação.jpeg);
+    background-color: black;
     border-radius:10px;
     height:210px;
+    background-image: none;
+    text-align: center;
+  
 }
 p{
     font-size:xx-large;
@@ -29,8 +32,12 @@ h1{
     text-align: center;
     color: white;
 }
+.meio{
+    text-align: center;
+    background-image: none;
+}
 img{
-    margin-left:25%;
+    size: 500px;
 }
 button{
     margin-left:7px;
